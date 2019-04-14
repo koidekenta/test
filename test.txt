@@ -1,2 +1,6 @@
 test
-•ÏX‚µ‚Ü‚µ‚½‚æB
+git
+dest
+hoge
+sage
+koshindayo
