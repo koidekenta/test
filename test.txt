@@ -3,3 +3,4 @@ git
 dest
 hoge
 sage
+koshindayo
